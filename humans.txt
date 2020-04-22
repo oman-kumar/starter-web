@@ -6,7 +6,7 @@
     Oman Kumar   dullaomankumar@gmail.com
 
 # THANKS
-
+ thanks git
     <name>
 
 # TECHNOLOGY COLOPHON
