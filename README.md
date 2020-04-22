@@ -20,7 +20,7 @@ We did all the above parts in this deplopyment
 
 ## add	
 
-just adding into working directory
+just adding into working directory addign for stash
 
 ## working directory
 
